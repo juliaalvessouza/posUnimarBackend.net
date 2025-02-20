@@ -9,3 +9,7 @@ var curso = new Curso(
     10);
 
 
+var professor = new Professor(
+    "Professor Teste",
+    "Professor Biografia Teste"
+);
